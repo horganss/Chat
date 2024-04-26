@@ -1,4 +1,4 @@
-const socket = io("http://localhost:80");
+const socket = io("https://server-for-chat.pages.dev/");
 
 //window.prompt("Enter your username: ");
 
